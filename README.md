@@ -21,7 +21,7 @@
 4. 前往 WordPress 管理页面，前往 IP 属地设置页面填写 key。
 
 # 感谢
-1.easy-location（https://github.com/bigfa/easy-location）
+1.easy-location（https://github.com/bigfa/easy-location/ ）
 
 2.为博客添 ip 归属地 [enjoy](https://mcenjoy.cn/1241/ [链接已失效])
 
