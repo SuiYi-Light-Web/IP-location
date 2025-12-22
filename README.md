@@ -9,9 +9,9 @@
 
 3.IP属地显示在评论区、后台评论页面，在后台提供一键更新获取IP属地功能。
 
-![评论区](https://cdn.suiyil.cn/blog/uploads/2025/06/image-4.png "评论区")
-![后台](https://cdn.suiyil.cn/blog/uploads/2025/06/image-2.png "后台")
-![评论后台](https://cdn.suiyil.cn/blog/uploads/2025/06/image-3.png "评论后台")
+![评论区](https://blog.suiyil.cn/wp-content/uploads/2025/06/image-4.png "评论区")
+![后台](https://blog.suiyil.cn/wp-content/uploads/2025/06/image-2.png "后台")
+![评论后台](https://blog.suiyil.cn/wp-content/uploads/2025/06/image-3.png "评论后台")
 
 
 # 设置说明
